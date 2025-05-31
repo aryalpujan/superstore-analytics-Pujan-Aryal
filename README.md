@@ -1,1 +1,5 @@
 # superstore-analytics-Pujan-Aryal
+# Superstore Analytics – [Your Full Name]
+
+## 📘 Summary
+This project analyzes retail performance data from the Superstore dataset using Python in Google Colab and compares it with Excel-based analysis. The notebook calculates key business metrics, visualizes trends, and helps derive insights into regional performance, category-level profitability, and top products. It demonstrates how Python and Excel serve as tools in business intelligence and analytic.
